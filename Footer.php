@@ -1,1 +1,0 @@
-<footer>Derechos reservados la cucaracha peluda</footer>

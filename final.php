@@ -1,1 +1,1 @@
-<footer>Derechos reservados la cucaracha peluda</footer>
+<footer><b>DERECHOS RESERVADOS A LA CUCARACHA PELUDA</footer>
